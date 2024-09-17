@@ -1,0 +1,24 @@
+.gradient-border{
+    border:3px dotted greenyellow;
+    vertical-align: top;
+}
+.gradient-border:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.btn{
+    border-top-left-radius: 20% ;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    height:50px;
+    background-color: #a8765fa0;
+    background-image: linear-gradient(315deg, #80a7b0 30%, #7baaae91 74%);
+}
+.sp1{
+    margin-right: 200px;
+    text-align: center;
+}
+.ig1{
+    width:300px;
+}

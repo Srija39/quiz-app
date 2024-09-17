@@ -1,0 +1,9 @@
+.sp1{
+    text-align: center;
+    margin-left:30px;
+    margin-top: 120px;
+}
+.img1{
+    display: flex;
+    align-items: center;
+}
